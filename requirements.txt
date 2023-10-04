@@ -1,0 +1,4 @@
+tensorflow
+SpeechRecognition
+scikit-learn
+pyttsx3
